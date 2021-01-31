@@ -34,4 +34,4 @@ data.out <- data.out[order(data.out[,2]),]
 
 ###Write data.out to File###
 out.name <- paste(file_path_sans_ext(basename(args[1])),"updated.csv",sep="_")
-write.csv(data.out, file.path(args[2],out.name), row.names=FALSE)
+write.csv(data.out, paste(args[2],out.name, sep=""), row.names=FALSE)

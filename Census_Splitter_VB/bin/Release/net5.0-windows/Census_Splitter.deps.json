@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Census_Splitter/1.0.0": {
+        "runtime": {
+          "Census_Splitter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Census_Splitter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
