@@ -1,40 +1,24 @@
-User,Quiz,"Attempt timestamp","Attempt grade","Final grade"
-"Abigail Ray","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 11:24 PM",90.00,90.00
-"Jamie East","The Scavenger Hunt - Right click and select New Tab or New Window","Friday, January 8, 2021, 5:24 PM",100.00,100.00
-"Hannah Hauser","The Scavenger Hunt - Right click and select New Tab or New Window","Thursday, January 7, 2021, 8:52 PM",100.00,100.00
-"Cara Leigh Scott","The Scavenger Hunt - Right click and select New Tab or New Window","Thursday, January 7, 2021, 7:11 PM",100.00,100.00
-"Jared Cox","The Scavenger Hunt - Right click and select New Tab or New Window","Saturday, January 9, 2021, 7:23 PM",83.33,83.33
-"Jared Cox","The Scavenger Hunt - Right click and select New Tab or New Window","Saturday, January 9, 2021, 7:27 PM",72.00,83.33
-"Jared Cox","The Scavenger Hunt - Right click and select New Tab or New Window","Saturday, January 9, 2021, 7:33 PM",60.00,83.33
-"Shaylee Tilley","The Scavenger Hunt - Right click and select New Tab or New Window","Monday, January 11, 2021, 6:24 PM",90.00,90.00
-"McKenzie Dotson","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 8:33 PM",80.00,100.00
-"McKenzie Dotson","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 8:55 PM",74.67,100.00
-"McKenzie Dotson","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 8:59 PM",90.00,100.00
-"McKenzie Dotson","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 9:21 PM",100.00,100.00
-"Dylan Mathis","The Scavenger Hunt - Right click and select New Tab or New Window","Saturday, January 9, 2021, 1:04 AM",100.00,100.00
-"Maria Alvarez","The Scavenger Hunt - Right click and select New Tab or New Window","Thursday, January 7, 2021, 10:40 AM",100.00,100.00
-"Logan Pavlansky","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 9:05 PM",90.00,100.00
-"Logan Pavlansky","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 9:21 PM",93.33,100.00
-"Logan Pavlansky","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 9:24 PM",90.00,100.00
-"Logan Pavlansky","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 9:26 PM",100.00,100.00
-"Kaylee Arrington","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 10:31 PM",80.00,80.00
-"Alexandria Stanley","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 11:23 PM",86.67,100.00
-"Alexandria Stanley","The Scavenger Hunt - Right click and select New Tab or New Window","Thursday, January 7, 2021, 12:26 AM",96.67,100.00
-"Alexandria Stanley","The Scavenger Hunt - Right click and select New Tab or New Window","Thursday, January 7, 2021, 12:58 AM",100.00,100.00
-"Autumn Whitaker","The Scavenger Hunt - Right click and select New Tab or New Window","Thursday, January 7, 2021, 1:41 PM",100.00,100.00
-"Brooke Mosley","The Scavenger Hunt - Right click and select New Tab or New Window","Friday, January 8, 2021, 3:45 PM",100.00,100.00
-"McKinley Cornell","The Scavenger Hunt - Right click and select New Tab or New Window","Wednesday, January 6, 2021, 10:29 PM",100.00,100.00
-"Isaac Riggs","The Scavenger Hunt - Right click and select New Tab or New Window","Sunday, January 10, 2021, 2:35 PM",88.00,88.00
-"Courtney Thomas","The Scavenger Hunt - Right click and select New Tab or New Window","Friday, January 8, 2021, 12:36 PM",75.33,100.00
-"Courtney Thomas","The Scavenger Hunt - Right click and select New Tab or New Window","Friday, January 8, 2021, 12:43 PM",90.00,100.00
-"Courtney Thomas","The Scavenger Hunt - Right click and select New Tab or New Window","Friday, January 8, 2021, 12:52 PM",90.00,100.00
-"Courtney Thomas","The Scavenger Hunt - Right click and select New Tab or New Window","Friday, January 8, 2021, 1:01 PM",90.00,100.00
-"Courtney Thomas","The Scavenger Hunt - Right click and select New Tab or New Window","Friday, January 8, 2021, 1:03 PM",100.00,100.00
-"Dylan Richards","The Scavenger Hunt - Right click and select New Tab or New Window","Thursday, January 7, 2021, 7:45 AM",80.00,80.00
-"Anna Wagoner","The Scavenger Hunt - Right click and select New Tab or New Window","Thursday, January 7, 2021, 10:49 PM",90.00,90.00
-"Emma Brady","The Scavenger Hunt - Right click and select New Tab or New Window","Thursday, January 7, 2021, 12:03 AM",80.00,80.00
-"Alana Harris","The Scavenger Hunt - Right click and select New Tab or New Window","Thursday, January 7, 2021, 10:59 AM",100.00,100.00
-"Caitlin Wixon","The Scavenger Hunt - Right click and select New Tab or New Window","Thursday, January 7, 2021, 9:52 AM",100.00,100.00
-"Jacob Gates","The Scavenger Hunt - Right click and select New Tab or New Window","Saturday, January 9, 2021, 2:10 PM",83.33,100.00
-"Jacob Gates","The Scavenger Hunt - Right click and select New Tab or New Window","Saturday, January 9, 2021, 2:21 PM",88.00,100.00
-"Jacob Gates","The Scavenger Hunt - Right click and select New Tab or New Window","Saturday, January 9, 2021, 2:26 PM",100.00,100.00
+First.Name,Last.Name,Quiz,Attempt.timestamp,Attempt.grade,Final.grade
+Maria,Alvarez,The Scavenger Hunt - Right click and select New Tab or New Window,1/7/2021,100,100
+Kaylee,Arrington,The Scavenger Hunt - Right click and select New Tab or New Window,1/6/2021,80,80
+Emma,Brady,The Scavenger Hunt - Right click and select New Tab or New Window,1/7/2021,80,80
+McKinley,Cornell,The Scavenger Hunt - Right click and select New Tab or New Window,1/6/2021,100,100
+Jared,Cox,The Scavenger Hunt - Right click and select New Tab or New Window,1/9/2021,83.33,83.33
+McKenzie,Dotson,The Scavenger Hunt - Right click and select New Tab or New Window,1/6/2021,80,100
+Jamie,East,The Scavenger Hunt - Right click and select New Tab or New Window,1/8/2021,100,100
+Jacob,Gates,The Scavenger Hunt - Right click and select New Tab or New Window,1/9/2021,83.33,100
+Alana,Harris,The Scavenger Hunt - Right click and select New Tab or New Window,1/7/2021,100,100
+Hannah,Hauser,The Scavenger Hunt - Right click and select New Tab or New Window,1/7/2021,100,100
+Cara,Leigh,The Scavenger Hunt - Right click and select New Tab or New Window,1/7/2021,100,100
+Dylan,Mathis,The Scavenger Hunt - Right click and select New Tab or New Window,1/9/2021,100,100
+Brooke,Mosley,The Scavenger Hunt - Right click and select New Tab or New Window,1/8/2021,100,100
+Logan,Pavlansky,The Scavenger Hunt - Right click and select New Tab or New Window,1/6/2021,90,100
+Abigail,Ray,The Scavenger Hunt - Right click and select New Tab or New Window,1/6/2021,90,90
+Dylan,Richards,The Scavenger Hunt - Right click and select New Tab or New Window,1/7/2021,80,80
+Isaac,Riggs,The Scavenger Hunt - Right click and select New Tab or New Window,1/10/2021,88,88
+Alexandria,Stanley,The Scavenger Hunt - Right click and select New Tab or New Window,1/6/2021,86.67,100
+Courtney,Thomas,The Scavenger Hunt - Right click and select New Tab or New Window,1/8/2021,75.33,100
+Shaylee,Tilley,The Scavenger Hunt - Right click and select New Tab or New Window,1/11/2021,90,90
+Anna,Wagoner,The Scavenger Hunt - Right click and select New Tab or New Window,1/7/2021,90,90
+Autumn,Whitaker,The Scavenger Hunt - Right click and select New Tab or New Window,1/7/2021,100,100
+Caitlin,Wixon,The Scavenger Hunt - Right click and select New Tab or New Window,1/7/2021,100,100
