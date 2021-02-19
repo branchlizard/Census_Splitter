@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Census_Splitter", "G:\VB_Projects\Census_Splitter\VB_Files\Census_Splitter\Census_Splitter.vbproj", "{4CD4A8F2-DC4A-4110-92EF-752407043AE7}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Census_Splitter", "..\..\..\source\repos\Census_Splitter_1.1\Census_Splitter_1.1\Census_Splitter.vbproj", "{799B62D5-2B9C-441A-9FA7-68E38A7137E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4CD4A8F2-DC4A-4110-92EF-752407043AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4CD4A8F2-DC4A-4110-92EF-752407043AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4CD4A8F2-DC4A-4110-92EF-752407043AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4CD4A8F2-DC4A-4110-92EF-752407043AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799B62D5-2B9C-441A-9FA7-68E38A7137E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799B62D5-2B9C-441A-9FA7-68E38A7137E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799B62D5-2B9C-441A-9FA7-68E38A7137E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799B62D5-2B9C-441A-9FA7-68E38A7137E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3E0AC15E-AA31-491E-B145-8E8517CF7F22}
+		SolutionGuid = {E92CB475-06F7-4BC9-B20C-E91B020ADBBE}
 	EndGlobalSection
 EndGlobal
