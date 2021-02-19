@@ -1,21 +1,9 @@
-<<<<<<< HEAD
 ###Pre-Script Calls###
 args <- commandArgs(TRUE)
 require(tools)
 
 ###Read Data In and Tweak###
 data.in <- read.csv(args[1])
-=======
-###Begin Try Command to suppress all messages
-try({
-
-###Pre-Script Calls###
-args <- commandArgs(TRUE)
-suppressMessages(require(tools))
-
-###Read Data In and Tweak###
-data.in <- suppressWarnings(read.csv(args[1]))
->>>>>>> Stable
 data.in[,1] <- as.character(data.in[,1])
 data.in[,3] <- as.Date(data.in[,3], format="%A, %B %d, %Y")
 
@@ -31,18 +19,10 @@ first.name <- vector()
 last.name <- vector()
 
 for (i in name.split) {
-<<<<<<< HEAD
     first.name <- append(i[[1]], first.name) 
     last.name <- append(i[[2]], last.name)
 }
 
-=======
-    first.name <- append(i[[1]], first.name)
-    last.name <- append(i[[2]], last.name)
-}
-
-
->>>>>>> Stable
 ###Append New Columns Reversed###
 data.subset$First.Name <- rev(first.name)
 data.subset$Last.Name <- rev(last.name)
@@ -54,16 +34,4 @@ data.out <- data.out[order(data.out[,2]),]
 
 ###Write data.out to File###
 out.name <- paste(file_path_sans_ext(basename(args[1])),"updated.csv",sep="_")
-write.csv(data.out, file.path(args[2],out.name), row.names=FALSE)
-<<<<<<< HEAD
-=======
-
-
-###End Try Command
-}, silent=TRUE)
-
-###Check to see if an error happened, if so, print the input file name###
-if (exists('data.out') == FALSE) {
-    cat(paste(basename(args[1]), "\n", sep=""))
-}
->>>>>>> Stable
+write.csv(data.out, paste(args[2],out.name, sep=""), row.names=FALSE)
